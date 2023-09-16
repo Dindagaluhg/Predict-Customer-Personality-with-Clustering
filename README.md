@@ -12,7 +12,7 @@
 - **Spending Habits**: A direct correlation between spending and likelihood of conversion.
 - **Age Factor**: Conversion rates increase with age for both respondents and non-respondents of campaigns.
 - **Child Factor**: Customers without children exhibit a consistent 7.0 conversion rate regardless of their response to campaigns.
-- **Optimal Clustering**: Eight clusters identified as optimum - Churning Risk, Steady Customers, Casual Buyers, Inactive Customers, High-Value Customers, and Active High Spenders.
+- **Optimal Clustering**: 6 clusters that is Churning Risk, Steady Customers, Casual Buyers, Inactive Customers, High-Value Customers, and Active High Spenders.
 
 ### Recommendations:
 - **Income-based Targeting**: Prioritize marketing for customers earning > 55 million with a conversion rate > 10%.
